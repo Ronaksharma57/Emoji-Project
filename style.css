@@ -1,0 +1,55 @@
+
+
+body,h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.container{
+    padding: 1rem;
+}
+
+.mt-3{
+    margin-top: 3rem;
+}
+
+.mt-2{
+    margin-top: 2rem;
+}
+
+input{
+    font-size: 120%;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: transparent;
+}
+
+
+
+
+.emoji{
+    font-size: 300%;
+    width: 8rem;
+    max-width: 8rem;
+}
+
+.aliases{
+    text-transform: capitalize;
+    font-size: 125%;
+}
+
+.desc{
+    font-size: 125%;
+}
+
+.desc::first-letter{
+    text-transform: uppercase;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
