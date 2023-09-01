@@ -37,9 +37,9 @@ Create a new HTML file and save it as `index.html`. Add the following code to th
 </html>
 ```
 
-### Step 2: Create a New CSS File
+### Step 2: Create a New JS File
 
-Create a new CSS file and save it as `style.css`. Add the following code to the file:
+Create a new JS file and save it as `index.js`. Add the following code to the file:
 
 ```js
 const searchEmoji = e=>{
